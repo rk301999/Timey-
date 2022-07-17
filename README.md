@@ -2,7 +2,7 @@
 # Timey
 
 Timey is a simple yet affective application which tells you the countdown time for a respective date that you can set 
-. No misssing your better half's or friends bay anymore.
+. No misssing your better half's or friends bday anymore.
 
 
 ## Documentation
